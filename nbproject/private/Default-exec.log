@@ -1,0 +1,16 @@
+called: C:\MinGW\bin\g++.exe
+	C:\Users\dube_\Documents\NetBeansProjects\KMeans_Clustering
+	C:\MinGW\bin\g++.exe
+	main.cpp
+	-c
+	main.cpp
+	-std=c++11
+
+called: C:\MinGW\bin\g++.exe
+	C:\Users\dube_\Documents\NetBeansProjects\KMeans_Clustering
+	C:\MinGW\bin\g++.exe
+	main.o
+	-o
+	project_creator
+	-std=c++11
+

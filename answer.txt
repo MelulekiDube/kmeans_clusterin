@@ -1,0 +1,4 @@
+The final answer is:
+How many iterations are needed for k-means to converge: 3 where needed as shown by the results in the 
+														out.txt file the 4th iteration is the same as the results from the 3rd.
+														
